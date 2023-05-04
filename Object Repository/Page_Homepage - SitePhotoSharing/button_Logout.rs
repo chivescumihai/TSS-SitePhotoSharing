@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Login</name>
+   <name>button_Logout</name>
    <tag></tag>
-   <elementGuidId>34e2d320-a303-44c1-9394-b344ff539a26</elementGuidId>
+   <elementGuidId>d3eec2d5-f1dd-4a9f-9ed0-2cfdfc883f13</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#login</value>
+         <value>#logout</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='login']</value>
+         <value>//button[@id='logout']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,127 +21,119 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>87be5a34-668e-41f2-b999-073889cdcc92</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>nav-link text-light</value>
-      <webElementGuid>2bd762f7-04f5-4ae0-969a-d7ee1767927a</webElementGuid>
+      <value>button</value>
+      <webElementGuid>c8113c5a-a880-4921-b68b-e806bfb8aa1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>login</value>
-      <webElementGuid>866bed38-5ace-43a7-8433-85ae924f472d</webElementGuid>
+      <value>logout</value>
+      <webElementGuid>22987974-6fd3-458f-8607-ef1bb8385e1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>type</name>
       <type>Main</type>
-      <value>/Identity/Account/Login</value>
-      <webElementGuid>dd7b80e4-4627-41a4-973e-eb56a14f4c91</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>4b902c54-af4a-4b14-bc95-80e495236534</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link btn btn-link text-light</value>
+      <webElementGuid>ad626951-7c56-4c39-91a4-9f8d1d35d094</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>79f4bfd4-aebb-4d09-998c-8e41dcaf66be</webElementGuid>
+      <value>Logout</value>
+      <webElementGuid>2de3d367-9988-4ced-936f-1c00baf709d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login&quot;)</value>
-      <webElementGuid>bcd152ee-75df-4612-be22-a40a248c745a</webElementGuid>
+      <value>id(&quot;logout&quot;)</value>
+      <webElementGuid>86d1c8d7-3609-422a-a7ad-407b0d832136</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='login']</value>
-      <webElementGuid>b4df9653-0ec1-433d-96da-6724ec5a37cf</webElementGuid>
+      <value>//button[@id='logout']</value>
+      <webElementGuid>f1c87727-eaec-4b1e-97fd-daa452d11465</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Login')]</value>
-      <webElementGuid>1aad443a-5c94-4f50-99e4-cc498491dc8f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::a[1]</value>
-      <webElementGuid>9740d8ab-c1ea-498f-90ca-47c973cfed8a</webElementGuid>
+      <value>//form[@id='logoutForm']/button</value>
+      <webElementGuid>2be303e9-1bb1-4567-bf84-4ee4cf8fe80b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/following::a[2]</value>
-      <webElementGuid>5a31fa95-b891-40f0-af5a-66523ce82286</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toate Pozele Mele'])[1]/following::button[1]</value>
+      <webElementGuid>2b58711f-d45a-4c70-aa7e-0f4ea940c05f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Site Photosharing'])[1]/preceding::a[1]</value>
-      <webElementGuid>4c7f6919-3e03-44d2-a4a1-a2573728cb8b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adaugare Poza'])[1]/following::button[1]</value>
+      <webElementGuid>7a626fa8-2f07-4ead-8c93-50895b9c4530</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Best place to share your pictures'])[1]/preceding::a[1]</value>
-      <webElementGuid>8d3f9cbf-b9d4-4192-9c8c-64719492052c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Site Photosharing'])[1]/preceding::button[1]</value>
+      <webElementGuid>b773b6cf-7ff3-4dcf-aab4-b924118cb75c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>698228d4-f9c5-4a52-bebb-83a342386ac8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Best place to share your pictures'])[1]/preceding::button[1]</value>
+      <webElementGuid>14d75c49-35bb-4532-a2ab-05477a9df103</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/Identity/Account/Login')]</value>
-      <webElementGuid>e3a03525-8ed1-472c-8987-03c55a8694a4</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
+      <webElementGuid>e0e11c6d-cc96-4fce-b342-22c67400a215</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//ul[2]/li[2]/a</value>
-      <webElementGuid>7685dcd0-a1b4-4c67-b235-37a22cc34832</webElementGuid>
+      <value>//form/button</value>
+      <webElementGuid>55eafc2d-c741-4697-a461-e74eb518913e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'login' and @href = '/Identity/Account/Login' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>c4eec118-8387-4d34-ba75-e5433fc1c65d</webElementGuid>
+      <value>//button[@id = 'logout' and @type = 'submit' and (text() = 'Logout' or . = 'Logout')]</value>
+      <webElementGuid>f5330603-682a-4752-823b-42b4eb61edec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
