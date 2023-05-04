@@ -6,12 +6,12 @@
    <elementGuidId>34e2d320-a303-44c1-9394-b344ff539a26</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#login</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@id='login']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#login</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>87be5a34-668e-41f2-b999-073889cdcc92</webElementGuid>
+      <webElementGuid>e6339931-637b-46c3-bc80-74af13f418bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link text-light</value>
-      <webElementGuid>2bd762f7-04f5-4ae0-969a-d7ee1767927a</webElementGuid>
+      <webElementGuid>46f7c20d-fbe6-4088-9d62-4f794177d290</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>login</value>
-      <webElementGuid>866bed38-5ace-43a7-8433-85ae924f472d</webElementGuid>
+      <webElementGuid>8130bfac-a1ad-4493-b8e1-bc204a0bd4f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/Identity/Account/Login</value>
-      <webElementGuid>dd7b80e4-4627-41a4-973e-eb56a14f4c91</webElementGuid>
+      <webElementGuid>c60ecba6-94e3-4bb4-ba78-6b0a98d17f3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Login</value>
-      <webElementGuid>79f4bfd4-aebb-4d09-998c-8e41dcaf66be</webElementGuid>
+      <webElementGuid>51222bfd-23ed-4ba7-920e-bef3b450a285</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login&quot;)</value>
-      <webElementGuid>bcd152ee-75df-4612-be22-a40a248c745a</webElementGuid>
+      <webElementGuid>bfec0435-c4eb-433a-bbb2-17a82d1b60a5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='login']</value>
-      <webElementGuid>b4df9653-0ec1-433d-96da-6724ec5a37cf</webElementGuid>
+      <webElementGuid>b1cfc793-3c94-4bd9-a707-f925501457d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Login')]</value>
-      <webElementGuid>1aad443a-5c94-4f50-99e4-cc498491dc8f</webElementGuid>
+      <webElementGuid>1cbcdf9d-ee06-4099-a4ee-f4f53b53305b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::a[1]</value>
-      <webElementGuid>9740d8ab-c1ea-498f-90ca-47c973cfed8a</webElementGuid>
+      <webElementGuid>e2b23c0d-7b53-4d9d-a554-d39802ba4422</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/following::a[2]</value>
-      <webElementGuid>5a31fa95-b891-40f0-af5a-66523ce82286</webElementGuid>
+      <webElementGuid>769f322e-ba13-4a96-b739-2e1d94bcf42d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Site Photosharing'])[1]/preceding::a[1]</value>
-      <webElementGuid>4c7f6919-3e03-44d2-a4a1-a2573728cb8b</webElementGuid>
+      <webElementGuid>964e9da8-0e9c-43ac-b8a1-346b1bb13ae6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Best place to share your pictures'])[1]/preceding::a[1]</value>
-      <webElementGuid>8d3f9cbf-b9d4-4192-9c8c-64719492052c</webElementGuid>
+      <webElementGuid>429a8a64-4288-44e9-96b5-875988ef0ed8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>698228d4-f9c5-4a52-bebb-83a342386ac8</webElementGuid>
+      <webElementGuid>493c23da-9e02-496a-b877-76e5d2ff4a16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/Identity/Account/Login')]</value>
-      <webElementGuid>e3a03525-8ed1-472c-8987-03c55a8694a4</webElementGuid>
+      <webElementGuid>c1292439-01dc-4460-a347-f8f71060be53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ul[2]/li[2]/a</value>
-      <webElementGuid>7685dcd0-a1b4-4c67-b235-37a22cc34832</webElementGuid>
+      <webElementGuid>5f8338e0-ae9e-4b7f-b452-dc11f518cc71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'login' and @href = '/Identity/Account/Login' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>c4eec118-8387-4d34-ba75-e5433fc1c65d</webElementGuid>
+      <webElementGuid>0c8bcfa7-461f-4985-967e-3fd820a44740</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

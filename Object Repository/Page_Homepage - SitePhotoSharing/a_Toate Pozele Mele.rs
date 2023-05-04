@@ -6,12 +6,12 @@
    <elementGuidId>3f614b75-121a-45c3-9975-cd61fd39dd40</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[contains(text(),'Toate Pozele Mele')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6e610961-d9f2-4c56-a74d-8eadb2154041</webElementGuid>
+      <webElementGuid>4c2e4355-5d95-48bf-b56d-c26311687a78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link text-light </value>
-      <webElementGuid>cf037280-1eeb-48c8-938c-ecd43282506e</webElementGuid>
+      <webElementGuid>1e2b1d1b-ab6a-4db5-9e68-c7ad7f25d06a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/Poze/ToatePozeleMele</value>
-      <webElementGuid>529441c3-1fc5-49f7-8a40-096e3dafbd08</webElementGuid>
+      <webElementGuid>de9c62fa-4657-48da-b60d-4d4aa3d3f9dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Toate Pozele Mele</value>
-      <webElementGuid>32ecaf95-483d-47c2-b249-1ce97f9c9854</webElementGuid>
+      <webElementGuid>9fbf17fe-4163-4610-8419-1b4853447238</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/header[1]/nav[@class=&quot;navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow mb-3&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;navbar-collapse collapse d-sm-inline-flex justify-content-between&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link text-light&quot;]</value>
-      <webElementGuid>3b197391-0b33-4f25-9083-4f96f75d596e</webElementGuid>
+      <webElementGuid>7367dde2-4190-4ad3-81a0-f2f45ce321e2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Toate Pozele Mele')]</value>
-      <webElementGuid>841b6240-8b89-4c56-a94a-2fa34d7ca93a</webElementGuid>
+      <webElementGuid>f987d064-ecb2-418a-956d-ca2e4086b500</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Adaugare Poza'])[1]/following::a[1]</value>
-      <webElementGuid>d10ce2c7-efcd-4f2e-acfb-b3e285018c55</webElementGuid>
+      <webElementGuid>e3645b78-63fb-4470-a09f-ddefdc337597</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello admin'])[1]/following::a[2]</value>
-      <webElementGuid>7fa9fe1c-e789-4f16-ac1d-a0c207a244e7</webElementGuid>
+      <webElementGuid>299199e5-655c-425c-9a13-9a782e310a5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::a[1]</value>
-      <webElementGuid>f8029b4a-f811-4da8-b067-61e614d00ff7</webElementGuid>
+      <webElementGuid>490dce92-8cc1-4867-8ee5-037b6a953bad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Site Photosharing'])[1]/preceding::a[1]</value>
-      <webElementGuid>a00fddec-336f-4923-8dad-0a9bee895ad1</webElementGuid>
+      <webElementGuid>0e7346a2-d731-4072-8dda-9d83380b09b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Toate Pozele Mele']/parent::*</value>
-      <webElementGuid>7cfc3202-c5a6-461f-a9c6-9851cfaaf4ac</webElementGuid>
+      <webElementGuid>c7627e5c-0f28-4272-baba-1dd97344a48b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/Poze/ToatePozeleMele')]</value>
-      <webElementGuid>880d3c9e-0601-4923-ba68-771771eae391</webElementGuid>
+      <webElementGuid>f77a6e6d-6336-47c8-a1f1-6110b3aff130</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ul[2]/li[3]/a</value>
-      <webElementGuid>72fa33be-a922-4556-8132-6a14ee922f29</webElementGuid>
+      <webElementGuid>9db54751-00ed-4df1-844a-d1fdc067001d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/Poze/ToatePozeleMele' and (text() = 'Toate Pozele Mele' or . = 'Toate Pozele Mele')]</value>
-      <webElementGuid>bed92093-27a8-42ac-96b9-2c3fb22a4f9e</webElementGuid>
+      <webElementGuid>f4e510ca-9ec5-4eee-8361-f3851b4076c5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
