@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://localhost:7044/')
 
+WebUI.click(findTestObject('Object Repository/Page_Homepage - SitePhotoSharing/a_Login'))
+
 WebUI.setText(findTestObject('Object Repository/Page_Log in - SitePhotoSharing/input_Introduceti datele de login_Input.Email'), 
     'admin@email.com')
 
@@ -29,4 +31,18 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Log in - SitePhoto
 WebUI.click(findTestObject('Object Repository/Page_Log in - SitePhotoSharing/button_Log in'))
 
 WebUI.click(findTestObject('Object Repository/Page_Homepage - SitePhotoSharing/a_Toate Pozele Mele'))
+
+WebUI.click(findTestObject('Object Repository/Page_Toate Pozele Mele - SitePhotoSharing/a_Editare'))
+
+Random rand = new Random()
+
+randNr = rand.nextInt(6)
+List<String> descrieri = ["Clatitasion", "Clatiteeee", "Cla ti tee", "Clatitosss", "Spalate", "Clatiti"]
+
+WebUI.setText(findTestObject('Object Repository/Page_EditarePoza - SitePhotoSharing/input_Descriere_Descriere'), descrieri[randNr])
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_EditarePoza - SitePhotoSharing/select_AnimaleCladiriMancareNaturaOrasePortrete'), 
+    randNr.toString(), true)
+
+WebUI.click(findTestObject('Object Repository/Page_EditarePoza - SitePhotoSharing/input_CategorieId_btn btn-primary'))
 

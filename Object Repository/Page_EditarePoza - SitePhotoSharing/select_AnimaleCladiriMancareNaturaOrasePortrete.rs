@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AnimaleCladiriMancareNaturaOrasePortrete</name>
+   <tag></tag>
+   <elementGuidId>2b79b6e7-c60b-4ec5-a22c-21b035d68334</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='CategorieId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#CategorieId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>62d098ef-f671-4280-9c2f-ee0ab071fc37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>c294a412-c99f-4db1-a4d4-a350321d56fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>29e0f4ac-a137-487c-9a7e-5810bfdbdf04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>The CategorieId field is required.</value>
+      <webElementGuid>8fced12b-96b5-4f01-bdf9-25c0ff51510c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>CategorieId</value>
+      <webElementGuid>1acc0a39-a263-430a-900c-0362688a8240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>CategorieId</value>
+      <webElementGuid>ab5ff5a5-6b7e-429e-85f1-ae9710b0a761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Animale
+Cladiri
+Mancare
+Natura
+Orase
+Portrete
+</value>
+      <webElementGuid>b8c2bc26-b07b-46e5-864c-7736be763586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CategorieId&quot;)</value>
+      <webElementGuid>e413d834-a956-4a81-a36e-291d0ad120ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='CategorieId']</value>
+      <webElementGuid>1c65325e-fe4c-451e-9ff5-ccde64dea9f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CategorieId'])[1]/following::select[1]</value>
+      <webElementGuid>8d4e055a-f8b3-43a9-b6e1-ca30ba8b508d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Descriere'])[1]/following::select[1]</value>
+      <webElementGuid>baf74f0c-143c-404b-b924-ded9ddb5777b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inapoi'])[1]/preceding::select[1]</value>
+      <webElementGuid>75cf6b13-a641-4bc8-893f-ad34296a03bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>2a9d12bb-ada5-423c-ae91-f1b2fdd1e07e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'CategorieId' and @name = 'CategorieId' and (text() = 'Animale
+Cladiri
+Mancare
+Natura
+Orase
+Portrete
+' or . = 'Animale
+Cladiri
+Mancare
+Natura
+Orase
+Portrete
+')]</value>
+      <webElementGuid>f65a1ebd-ed5f-480d-9fb6-89b1aad6bcf7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
