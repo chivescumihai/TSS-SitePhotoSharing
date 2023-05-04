@@ -28,6 +28,8 @@ String projectDir = currentRelativePath.toAbsolutePath().toString()
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://localhost:7044/')
 
 WebUI.click(findTestObject('Object Repository/Page_Homepage - SitePhotoSharing/a_Login'))
