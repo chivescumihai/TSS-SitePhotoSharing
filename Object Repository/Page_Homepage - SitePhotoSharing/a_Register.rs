@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d4ffcf3b-1000-402d-81dc-37b50bd72ca1</webElementGuid>
+      <webElementGuid>7892ab33-fcce-4bcd-bf33-0f653cf64742</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link text-light</value>
-      <webElementGuid>47f72b71-2ba5-42b9-a5c6-5f88c56c7614</webElementGuid>
+      <webElementGuid>e4de99d8-eda5-423d-a91e-30c5af1a355d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>register</value>
-      <webElementGuid>8388e0da-d472-42b7-b90b-cf9b8df9e0b7</webElementGuid>
+      <webElementGuid>d4acbdc6-d501-4ee2-b06f-0e75769c1251</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/Identity/Account/Register</value>
-      <webElementGuid>b75ba7ba-bb34-4a02-af19-38f387446309</webElementGuid>
+      <webElementGuid>ccbff1eb-6436-449f-9834-94016c5df4ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Register</value>
-      <webElementGuid>7459c678-f6f2-40e7-ab38-fc5378021817</webElementGuid>
+      <webElementGuid>01309a3e-cc62-43b0-9175-f2b9bcc7c3cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;register&quot;)</value>
-      <webElementGuid>fa30033d-b593-43d7-af2b-c79f2ada3e56</webElementGuid>
+      <webElementGuid>3e9f8bd1-21e6-4411-b097-8081ed179df1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='register']</value>
-      <webElementGuid>92bae932-4977-407e-a074-524828a1cd98</webElementGuid>
+      <webElementGuid>f87f794f-80aa-4761-8aa6-18f3a5a85f0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Register')]</value>
-      <webElementGuid>1c295005-b87a-44f3-93ce-23b73f9ea534</webElementGuid>
+      <webElementGuid>69a12d5a-7ba3-4d30-9704-c1f770ef5596</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/following::a[1]</value>
-      <webElementGuid>d5372554-282c-41dc-9ef3-e6ca8a7cacd5</webElementGuid>
+      <webElementGuid>fc77366c-c591-4a82-b6cf-c3347669462c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[1]/following::a[2]</value>
-      <webElementGuid>b8a5de68-a06e-475a-9a3b-83de6197f3ba</webElementGuid>
+      <webElementGuid>84072841-8e1e-4c74-ae6a-957844f6b2fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::a[1]</value>
-      <webElementGuid>dbc5486c-2163-4390-99d6-45234fbd5b54</webElementGuid>
+      <webElementGuid>20ad13b1-2a30-47c7-8be4-2b29d5da9cde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Site Photosharing'])[1]/preceding::a[2]</value>
-      <webElementGuid>40ecd79e-7a60-4c10-99b6-d8fb57a38583</webElementGuid>
+      <webElementGuid>fdffd549-e114-4f06-8527-1aad6ebb32c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Register']/parent::*</value>
-      <webElementGuid>9e0bf7af-4978-4002-b343-9508064d997d</webElementGuid>
+      <webElementGuid>ec937423-5122-4146-8d22-9d8c616e871f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/Identity/Account/Register')]</value>
-      <webElementGuid>165b72d7-6003-47dc-90c8-2a60b4604fc0</webElementGuid>
+      <webElementGuid>bb5d055b-f5af-4cb2-ac38-dd5c6c42555f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ul[2]/li/a</value>
-      <webElementGuid>6a66736c-a77c-4165-b13d-93f3e2c6133d</webElementGuid>
+      <webElementGuid>6d124698-42e0-428d-84a1-4eba641780fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'register' and @href = '/Identity/Account/Register' and (text() = 'Register' or . = 'Register')]</value>
-      <webElementGuid>5e9208a9-5e0f-45cf-9abe-8066c8a34797</webElementGuid>
+      <webElementGuid>3b4aca90-ea4a-4cd1-9995-46d833bbdd43</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

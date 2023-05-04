@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>519880e5-f38f-479d-803c-da5902b5b71f</webElementGuid>
+      <webElementGuid>e6f172c9-a20e-41f1-83c4-7d01f753a01f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control text-black</value>
-      <webElementGuid>852cb615-f550-447d-b8c0-f9def4461c24</webElementGuid>
+      <webElementGuid>31eefaa4-25a2-4c18-92ac-0ed97fdeb55e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>lastname</value>
-      <webElementGuid>99095558-16e9-4b7b-a41d-9575d1897c61</webElementGuid>
+      <webElementGuid>8f8702a3-a5f1-4553-97f1-cc55e827d7f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>7905cdd6-d527-4b43-9fbd-5453b9690ec8</webElementGuid>
+      <webElementGuid>afd9d874-6892-441b-a33c-f530c9c89cc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>4023b0ce-1691-4dc4-bcb4-fa0ee754d926</webElementGuid>
+      <webElementGuid>4dde4eac-70db-478a-a436-e4967f65e64e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>0e6442c0-21af-41d8-9d21-f8dccc790af0</webElementGuid>
+      <webElementGuid>29d8220b-c2ac-4029-9dc1-6e4723646227</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-val-length</name>
       <type>Main</type>
       <value>The last name field should have a maximum of 255 characters.</value>
-      <webElementGuid>6748f720-a6ba-4a6f-9347-042d3a1c02b4</webElementGuid>
+      <webElementGuid>63c99679-aa1c-4716-aa49-d910abad9684</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>data-val-length-max</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>3da3b5be-3b28-430d-8658-4fd86ef84957</webElementGuid>
+      <webElementGuid>d670ef49-87ee-4378-a254-b3108a69bb80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>The Lastname field is required.</value>
-      <webElementGuid>eca65974-fb1b-417b-9361-7276626c2d40</webElementGuid>
+      <webElementGuid>727ab300-c0fd-4f09-9856-6e538d952961</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Input_LastName</value>
-      <webElementGuid>7de7657b-3fa9-4ddc-9813-762f46e662bb</webElementGuid>
+      <webElementGuid>52f7abf7-f9da-40f7-9a29-fb00a54d040d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>aeca93cb-59e1-4273-998a-bd464522aa95</webElementGuid>
+      <webElementGuid>76af7fad-67df-4b62-bfa9-75f6cdd16632</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Input.LastName</value>
-      <webElementGuid>c0132b70-169e-49a5-ae61-6bad42eb603f</webElementGuid>
+      <webElementGuid>3cc74bdd-65ad-4bfd-bd2e-dffc503c042b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Input_LastName&quot;)</value>
-      <webElementGuid>7bc2c786-ef55-43bb-acfa-3f4b4ac90733</webElementGuid>
+      <webElementGuid>861bd87a-87a0-49f2-b29c-d9c3efc901c5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='Input_LastName']</value>
-      <webElementGuid>f963e109-7a00-4056-9ab8-11aecd3390cb</webElementGuid>
+      <webElementGuid>c1579da3-8699-4c9f-8ce7-593c589473b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='registerForm']/div[2]/input</value>
-      <webElementGuid>77cb565c-8a85-45ce-b917-195cd607b242</webElementGuid>
+      <webElementGuid>a6277853-1e68-4093-a17d-201f568cd6c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>29b7d932-fa26-4f9e-ae45-cc31b5906de3</webElementGuid>
+      <webElementGuid>628492f4-4dac-4149-a450-b95eaa9dbe36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'Input_LastName' and @name = 'Input.LastName']</value>
-      <webElementGuid>08200250-e7ae-4caa-bcf5-d2db72b1c3e9</webElementGuid>
+      <webElementGuid>31769a94-7997-4a72-a8fb-fa03459cbee1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
